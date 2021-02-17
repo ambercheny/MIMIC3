@@ -1,0 +1,15 @@
+50824 Sodium, Whole Blood
+50983 Sodium
+51067 24 hr Creatinine
+51080 Creatinine Clearance
+51081 Creatinine, Serum
+50912 Creatinine
+51006 Urea Nitrogen
+50809 Glucose
+50802 Albumin
+50883 Bilirubin, Direct
+50884 Bilirubin, Indirect
+50885 Bilirubin, Total
+50810 Hematocrit, Calculated
+51300 WBC Count
+51301 White Blood Cells
