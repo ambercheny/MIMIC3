@@ -1,2 +1,0 @@
-Parameter performance: Lab data > chartevent & diagnosis
-Model performance: XGBoost > logistic regression
