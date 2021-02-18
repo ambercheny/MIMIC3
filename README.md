@@ -1,6 +1,7 @@
 # MIMIC3
 
 Kaggle competition: https://www.kaggle.com/c/tmu-ml-and-dl-2020-team-battle-task-1
+.
 Develop prediction models to predict survival in the next 48 hours upon admission using MIMIC III database. (death:1, alive:0)
 
 Reference - en
