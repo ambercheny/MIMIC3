@@ -1,4 +1,4 @@
-# MIMIC3
+# MIMIC3-ML
 
 Kaggle competition: https://www.kaggle.com/c/tmu-ml-and-dl-2020-team-battle-task-1
 .
